@@ -1,7 +1,7 @@
 apply plugin: 'java'
 apply plugin: 'maven-publish'
 
-group = 'com.github.semen-shilovski'
+group = 'com.github.semen_shilovski'
 version = '0.0.1'
 
 sourceCompatibility = 1.8 // java 8
